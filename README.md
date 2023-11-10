@@ -8,7 +8,7 @@ This menu REQUIRES cheat Engine to run it.
 ***
 
 
-![Screenshot_129](https://user-images.githubusercontent.com/62859332/217401388-4db284d6-978c-4c83-a452-c28f09623eb0.jpg)
+![Screenshot_129](https://github.com/GurmeetG1ll/RDR2/assets/150297549/cfcbee6a-5059-4842-961c-4e61d0d703cb))
 
 
 
