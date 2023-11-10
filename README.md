@@ -1,6 +1,6 @@
 # RDR2
 ***
-This menu REQUIRES a Engine to run it.
+This menu REQUIRES cheat Engine to run it.
 ***
 
 ***
@@ -24,8 +24,14 @@ Change Logs/
 
 V4.7 
 
-Fixed:
-updated 9/Nov/2023 to latest version of rdr2 
+updated 9/Nov/2023 to latest version of rdr2
+
+teleport to waypoint fixed
+
+gold dropper and exp dropper fixed
+
+
+
 
 Treasure chest pointer Mad Thanks to m7alex2 https://www.unknowncheats.me/forum/members/2990907.html
 
@@ -36,9 +42,6 @@ Credits to Splash screen
 
 
 v4.6
-
-
-
 
 New:
 
